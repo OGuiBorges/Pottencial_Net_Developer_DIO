@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto da Digital Innovation One do Curso de Git e Github
+# Desafio de Projeto da Digital Innovation One do Curso de Git e Github
 Desafio de projeto do curso de GIT e GITHUB da Digital Innovation One
 
 ## Links Úteis

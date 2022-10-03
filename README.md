@@ -1,5 +1,6 @@
-# Desafio de Projeto da Digital Innovation One do Curso de Git e Github
-Desafio de projeto do curso de GIT e GITHUB da Digital Innovation One
+# Desafios da Digital Innovation One nos cursos da Pottencial Net Developer
+
+- Desafio de projeto do curso de GIT e GITHUB da Digital Innovation One (Concluído)
 
 ## Links Úteis
 [Meu Perfil](https://github.com/OGuiBorges/OGuiBorges)<br>

@@ -1,0 +1,15 @@
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.exe
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.deps.json
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.runtimeconfig.json
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.dll
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.pdb
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.csproj.AssemblyReference.cache
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.GeneratedMSBuildEditorConfig.editorconfig
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfoInputs.cache
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfo.cs
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.csproj.CoreCompileInputs.cache
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.dll
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\refint\ExemploFundamentos.NET6.dll
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.pdb
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.genruntimeconfig.cache
+D:\guilh\Desktop\GUI\Programação\Pottencial_Net_Developer_DIO\ExemplosFundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ref\ExemploFundamentos.NET6.dll
